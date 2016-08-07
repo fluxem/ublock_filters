@@ -12,3 +12,6 @@ www.bloomberg.com###bb-nav > bb-bomb
 
 ! 8/6/2016, 12:13:16 PM https://www.youtube.com/*
 www.youtube.com###feed-main-what_to_watch
+
+! 7/27/2016, 5:00:41 PM https://www.linkedin.com/*
+www.linkedin.com###unified-cta-container > .content
