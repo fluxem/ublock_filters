@@ -4,3 +4,11 @@ facebook.com###pagelet_growth_expanding_cta
 ! 3/5/2016, 12:11:20 PM https://www.amazon.com/*
 amazon.com###nav-upnav
 
+! 6/14/2016, 12:41:34 PM http://www.bloomberg.com/*
+www.bloomberg.com###adBlockerContainer
+
+! 8/5/2016, 10:17:42 PM http://www.bloomberg.com/*
+www.bloomberg.com###bb-nav > bb-bomb
+
+! 8/6/2016, 12:13:16 PM https://www.youtube.com/*
+www.youtube.com###feed-main-what_to_watch
