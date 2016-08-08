@@ -24,3 +24,18 @@ facebook.com###headerArea > div
 
 ! 8/8/2016, 12:47:10 AM https://www.amazon.com/*
 amazon.com###detail-ilm_div
+
+! 8/8/2016, 12:51:15 AM https://www.amazon.com/*
+amazon.com###heroQuickPromo_feature_div
+
+! 8/8/2016, 12:52:17 AM https://www.amazon.com/*
+amazon.com###nav-logo > .nav-prime-try.nav-sprite.nav-logo-tagline
+
+! 8/8/2016, 12:53:15 AM https://www.amazon.com/*
+amazon.com###desktop-editorial
+
+! 8/8/2016, 12:55:34 AM https://www.amazon.com/*
+amazon.com###dpx-giveaway_feature_div
+
+! 8/8/2016, 12:57:06 AM https://www.amazon.com/*
+amazon.com###rhf
