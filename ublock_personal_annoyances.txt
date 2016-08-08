@@ -21,3 +21,6 @@ linkedin.com###unified-cta-container > .content
 
 ! 8/7/2016, 6:24:06 PM https://www.facebook.com/*
 facebook.com###headerArea > div
+
+! 8/8/2016, 12:47:10 AM https://www.amazon.com/*
+amazon.com###detail-ilm_div
