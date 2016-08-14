@@ -39,3 +39,12 @@ amazon.com###dpx-giveaway_feature_div
 
 ! 8/8/2016, 12:57:06 AM https://www.amazon.com/*
 amazon.com###rhf
+
+! 8/8/2016, 1:02:41 AM https://www.amazon.com/*
+amazon.com###nav-link-prime
+
+! 8/8/2016, 1:04:59 AM https://www.amazon.com/*
+amazon.com###giveaway_feature_div
+
+! 8/10/2016, 9:26:42 PM https://www.youtube.com/results?search_query=adblock
+youtube.com###item-section-231268 > li:nth-of-type(1) > .pyv-afc-ads-container
