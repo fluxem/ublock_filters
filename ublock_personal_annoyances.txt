@@ -48,3 +48,7 @@ amazon.com###giveaway_feature_div
 
 ! 8/10/2016, 9:26:42 PM https://www.youtube.com/results?search_query=adblock
 youtube.com###item-section-231268 > li:nth-of-type(1) > .pyv-afc-ads-container
+
+! 10/15/2016, 10:44:53 PM https://www.youtube.com/
+www.youtube.com###content > .branded-page-v2-secondary-column-hidden.branded-page-v2-container-flex-width.branded-page-base-bold-titles.branded-page-v2-container
+
