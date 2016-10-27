@@ -52,3 +52,32 @@ youtube.com###item-section-231268 > li:nth-of-type(1) > .pyv-afc-ads-container
 ! 10/15/2016, 10:44:53 PM https://www.youtube.com/
 www.youtube.com###content > .branded-page-v2-secondary-column-hidden.branded-page-v2-container-flex-width.branded-page-base-bold-titles.branded-page-v2-container
 
+! 10/11/2016, 4:16:13 PM https://www.linkedin.com/
+linkedin.com###advocate-modal
+
+! 10/12/2016, 10:38:16 AM http://academia.stackexchange.com/
+stackexchange.com###hot-network-questions
+
+! 10/12/2016, 10:38:36 AM http://academia.stackexchange.com/
+stackexchange.com###sidebar > .community-bulletin.module
+
+
+! 10/12/2016, 10:38:16 AM http://academia.stackexchange.com/
+stackoverflow.com###hot-network-questions
+
+! 10/12/2016, 10:38:36 AM http://academia.stackexchange.com/
+stackoverflow.com###sidebar > .community-bulletin.module
+
+! 10/12/2016, 10:38:16 AM http://academia.stackexchange.com/
+askubuntu.com###hot-network-questions
+
+! 10/12/2016, 10:38:36 AM http://academia.stackexchange.com/
+askubuntu.com###sidebar > .community-bulletin.module
+
+! 10/26/2016, 11:14:54 AM https://www.amazon.com/
+www.amazon.com###nav-flyout-anchor > .nav-flyout.nav-signin-tt
+
+! 10/26/2016, 11:15:29 AM https://www.amazon.com/
+www.amazon.com###unrec-pageContent
+
+
