@@ -118,4 +118,26 @@ amazon.com##.s-hidden-sponsored-item
 amazon.com##a[href='/gp/slredirect/redirect.html']
 amazon.com/gp/slredirect/picassoredirect.html
 
+! 2/14/2017, 12:09:17 PM https://www.ratemyprofessors.com/
+www.ratemyprofessors.com##.reveal-modal-bg
+
+! 2/14/2017, 12:09:24 PM https://www.ratemyprofessors.com/
+www.ratemyprofessors.com###adBlockModal
+
+www.ratemyprofessors.com###rateReminderModal
+
+www.ratemyprofessors.com###cookie_notice
+
+www.sandiegouniontribune.com###wm_interstitial_discovery_pop
+
+www.sandiegouniontribune.com###wm_interstitial_pop_overlay
+
+www.sandiegouniontribune.com###wm_interstitial_header
+www.sandiegouniontribune.com##.met-promo
+
+www.youtube.com##.ytp-button.ytp-next-button
+
+www.youtube.com##.ytp-share-icon
+
+www.youtube.com##.ytp-endscreen-content
 
