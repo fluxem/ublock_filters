@@ -141,3 +141,25 @@ www.youtube.com##.ytp-share-icon
 
 www.youtube.com##.ytp-endscreen-content
 
+
+theatlantic.com###article-most-popular
+theatlantic.com##.has-sharebuttons
+nytimes.com###whats-next
+nytimes.com##.robots-nocontent.nocontent.trending-module.module
+nytimes.com###supplemental-1
+nytimes.com###ribbon > .robots-nocontent.nocontent
+washingtonpost.com###post-most-rr
+washingtonpost.com##.html5.position-rel.game-module.right-rail
+washingtonpost.com##.contentfeed.postrecommends
+
+! 3/31/2017, 2:18:51 PM https://github.com/
+github.com##.js-notice.intro-shelf.shelf > .container
+
+! 3/31/2017, 2:19:05 PM https://github.com/
+github.com##.two-thirds.column.news
+
+! 3/31/2017, 2:19:26 PM https://github.com/
+github.com##.js-notice.octofication
+
+
+
