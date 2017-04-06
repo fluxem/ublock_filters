@@ -163,3 +163,11 @@ github.com##.js-notice.octofication
 
 
 
+element14.com##.js_lb_overlay.lb_overlay
+businessinsider.com##.popular-video.margin-top
+businessinsider.com##.main-rail
+businessinsider.com##.feed-footer-wrapper
+businessinsider.com###see-also-links
+businessinsider.com##.ks-recommended.pull-left.clear-fix.bottom-recommended
+
+
