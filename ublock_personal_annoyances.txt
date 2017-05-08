@@ -171,3 +171,45 @@ businessinsider.com###see-also-links
 businessinsider.com##.ks-recommended.pull-left.clear-fix.bottom-recommended
 
 
+amazon.com###bia_content
+amazon.com###cart-item-recs
+amazon.com###cart-recs-carol
+amazon.com###sc-new-upsell
+bnessinsider.com###see-also-links
+bnessinsider.com##.feed-footer-wrapper
+bnessinsider.com##.ks-recommended.pull-left.clear-fix.bottom-recommended
+bnessinsider.com##.main-rail
+bnessinsider.com##.popular-video.margin-top
+dailymail.co.uk###infinite-list
+dailymail.co.uk###most-read-news-wrapper
+dailymail.co.uk###most-watched-videos-wrapper
+dailymail.co.uk###next-story
+dailymail.co.uk###p-25
+dailymail.co.uk##.beta
+dailymail.co.uk##.floating-no-ads.has-button-share-facebook.floating-buttons
+dailymail.co.uk##.item.femail
+dailymail.co.uk##a[href^="http://windowsphone.com/s"]:nth-of-type(1) > span > .b-error
+dailymail.co.uk##a[href^="http://windowsphone.com/s"]:nth-of-type(2) > span
+dailymail.co.uk##div:nth-of-type(2) > iframe
+element14.com##.js_lb_overlay.lb_overlay
+fortune.com##.small-12.column > div > .row:nth-of-type(1) > div > .dont-print.brightcove-wrapper
+forum.xda-developers.com##.xdadepot-wrapper.post-text
+imdb.com###sidebar
+lifehacker.com##.sidebar
+newyorker.com##.most-popular
+newyorker.com##.nocontent.other-stories-3.module.other-stories
+newyorker.com##.stickify.strongbox-promo-wrapper.js-sticky-wrap
+nymag.com##.latest-news
+nymag.com##.most-popular
+nymag.com##.related-stories
+nymag.com##.tertiary
+nymag.com##.video-promo-for-articles
+reddit.com###bottom-comments > .seo-comments
+reddit.com##.seo-comments-recommendations.spacer
+reddit.com##.spacer.seo-comments
+theregister.co.uk###hot
+theregister.co.uk###read_more_on
+theregister.co.uk###spotlight
+urbandictionary.com##.is-large.bb-mug.is-test.def-store
+youtube.com###movie-upsell-card
+
